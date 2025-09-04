@@ -1,0 +1,19 @@
+Snake Animation
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  run-snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repo
+        uses: actions/checkout@v3
+
+      - name: Run Snake Animation
+        run: |
+          echo "Starting Snake..."
+          echo "🐍" # Bisa diganti dengan GIF ASCII sederhana
+          echo "Snake is moving..."
