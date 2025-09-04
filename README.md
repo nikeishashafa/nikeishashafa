@@ -47,3 +47,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-FF69B4?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikeisha)  
 [![Instagram](https://img.shields.io/badge/Instagram-FF69B4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nikeisha)
 
+![Snake animation](https://github.com/username/username/blob/output/dist/snake.svg)
+
