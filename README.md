@@ -35,9 +35,17 @@
 
 ---
 
-## 🎮 Mini Games (Visual)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/nikeishashafa/nikeishashafa/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/nikeishashafa/nikeishashafa/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/nikeishashafa/nikeishashafa/output/pacman-contribution-graph.svg">
+</picture>
 
-![Snake Game Preview](https://upload.wikimedia.org/wikipedia/commons/8/8e/Snake_game.svg)  
+###
+
+<img src="https://raw.githubusercontent.com/nikeishashafa/nikeishashafa/output/snake.svg" alt="Snake animation" />
+
+###  
 
 
 ---
