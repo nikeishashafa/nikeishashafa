@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Nikeisha 💖
+# Hi there 👋, I'm Nikeisha 
 
 ✨ Welcome to my GitHub profile! I love coding, creating, and adding colorful vibes everywhere.  
 
