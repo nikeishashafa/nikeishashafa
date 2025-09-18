@@ -6,16 +6,19 @@
 
 ## 🛠️ Skills & Languages
 
-![Python](https://img.shields.io/badge/Python-FF69B4?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-FF69B4?style=for-the-badge&logo=javascript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-FF69B4?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-FF69B4?style=for-the-badge&logo=css3&logoColor=white)
+**Python**  
+![Python Logo](https://www.vectorlogo.zone/logos/python/python-ar21.svg)  
+`████████░░░░░░ 70%`
+
+**JavaScript**  
+![JavaScript Logo](https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg)  
+`███████░░░░░░ 60%`
+
+**HTML5 / CSS3**  
+![HTML5 Logo](https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg) ![CSS3 Logo](https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg)  
+`█████████░░░ 80%`
 
 ---
-
-## 📊 GitHub Stats
-
-![Nikeisha's GitHub stats](https://github-readme-stats.vercel.app/api?username=nikeisha&show_icons=true&theme=react)
 
 ---
 
