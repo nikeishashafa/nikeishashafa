@@ -1,6 +1,6 @@
 # Hi there 👋, I'm Nikeisha
 
-✨ Welcome to my GitHub profile! I love coding, creating, and adding a splash of pink everywhere 💖  
+✨ Welcome to my GitHub profile! 
 
 ---
 
